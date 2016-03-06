@@ -8,7 +8,7 @@ public class Main {
 		//Cambio de mierda
 		//Cambio de mierda 2
 		int i=0;
-		while(i<5){
+		while(i<10){
 			System.out.println("blabla");
 			i++;
 		}
