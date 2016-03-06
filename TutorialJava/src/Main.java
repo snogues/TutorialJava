@@ -8,8 +8,9 @@ public class Main {
 		//Cambio de mierda
 		//Cambio de mierda 2
 		int i=0;
-		for (int j=0; i<2;i++){
-			System.out.println("blabla");			
+		while(i<5){
+			System.out.println("blabla");
+			i++;
 		}
 		//miaheiaheai
 	}
