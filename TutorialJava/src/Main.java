@@ -8,7 +8,7 @@ public class Main {
 		//Cambio de mierda
 		//Cambio de mierda 2
 		int i=0;
-		for (i; i<2;i++){
+		for (int j=0; i<2;i++){
 			System.out.println("blabla");			
 		}
 		//miaheiaheai
